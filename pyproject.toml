@@ -18,6 +18,8 @@ beautifulsoup4 = "^4.11.1"
 seaborn = "^0.12.1"
 matplotlib = "^3.6.2"
 statsmodels = "^0.13.5"
+ipython = "^8.6.0"
+ipykernel = "^6.17.0"
 
 
 [build-system]
